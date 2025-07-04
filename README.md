@@ -4,7 +4,7 @@ A simple and elegant stopwatch application built using **React** and **Vite**. T
 
 ### 🌐 Live Demo
 
-🔗 [[https://joffreyxd.github.io/Stopwatch-react-app](https://joffreyxd.github.io/Stopwatch-react-app)](https://joffreyxd.github.io/Stopwatch-react-app)
+🔗 https://joffreyxd.github.io/Stopwatch-react-app
 
 ---
 
